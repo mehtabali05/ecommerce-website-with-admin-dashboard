@@ -2,6 +2,8 @@ import React, { useContext } from 'react'
 import Layout from '../../components/layout/Layout'
 import MyContext from '../../context/data/myContext'
 import Loader from '../../components/loader/Loader'
+// import MyContext from '../../context/data/myContext';
+
 
 const Order = () => {
  

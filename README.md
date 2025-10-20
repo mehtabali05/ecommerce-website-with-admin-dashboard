@@ -30,7 +30,7 @@ This project includes a customer storefront and an admin dashboard for managing 
 ---
 
 ## Project overview
-This project implements an e-commerce storefront plus an admin dashboard using a modern React + Vite frontend and Firebase services (Authentication for users/admins, Firestore for data, Storage for product images). It is designed to be simple to run locally and easy to deploy to static hosts or Firebase Hosting. :contentReference[oaicite:2]{index=2}
+This project implements an e-commerce storefront plus an admin dashboard using a modern React + Vite frontend and Firebase services (Authentication for users/admins, Firestore for data, Storage for product images). It is designed to be simple to run locally and easy to deploy to static hosts or Firebase Hosting.
 
 ---
 
